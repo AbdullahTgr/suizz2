@@ -103,7 +103,7 @@
 						<li class="list-inline-item">
 							<img src="images/testimonial/feature-testimonial-thumb.jpg" alt="">
 						</li>
-						<li class="list-inline-item">Jonathon Andrew , Themefisher.com</li>
+						<li class="list-inline-item">Abdullah Mostafa</li>
 					</ul>
 				</div>
 			</div>
@@ -134,7 +134,7 @@
 						<li class="list-inline-item">
 							<img src="images/testimonial/feature-testimonial-thumb.jpg" alt="">
 						</li>
-						<li class="list-inline-item">Jonathon Andrew , Themefisher.com</li>
+						<li class="list-inline-item">Abdullah Mostafa</li>
 					</ul>
 				</div>
 			</div>
@@ -356,12 +356,6 @@
 						<a href="" class="btn btn-rounded-icon">
 							<i class="ti-android"></i>
 							Android
-						</a>
-					</li>
-					<li class="list-inline-item">
-						<a href="" class="btn btn-rounded-icon">
-							<i class="ti-microsoft-alt"></i>
-							Windows
 						</a>
 					</li>
 				</ul>

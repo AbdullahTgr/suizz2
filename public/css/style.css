@@ -2222,4 +2222,17 @@ px
   position: fixed;
   width: 100%;
 }
+.gradient-banner::before {
+  position: absolute;
+  content: '';
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  width: 200%;
+  height: 200%;
+  border-radius: 50%;
+  background-image: linear-gradient(
+45deg, #000000 0%, #de3c38 20%, #02225B 50%);
+}
 /*# sourceMappingURL=style.css.map */
