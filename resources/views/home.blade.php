@@ -33,8 +33,8 @@
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-6 order-2 order-md-1 text-center text-md-left">
-				<h1 class="text-white font-weight-bold mb-4">Showcase your app with Small Apps</h1>
-				<p class="text-white mb-5">Besides its beautiful design. Laapp is an incredibly rich core framework for you to
+				<h1 class="text-white font-weight-bold mb-4">Suizz Mobile Apps</h1>
+				<p class="text-white mb-5">Suizz its beautiful design. Suizz is an incredibly rich core for you to
 					showcase your App.</p>
 				<a href="FAQ.html" class="btn btn-main-md" style="background:#e59d0a">Download Now</a>
 			</div>
@@ -52,20 +52,18 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-6 mt-5 mt-md-0 text-center">
 					<i class="ti-paint-bucket text-primary h1"></i>
-					<h3 class="mt-4 text-capitalize h5 ">themes made easy</h3>
-					<p class="regular text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non, recusandae
-						tempore ipsam dignissimos molestias.</p>
+					<h3 class="mt-4 text-capitalize h5 ">Anything-but-basic </h3>
+					<p class="regular text-muted">Think sleek modular sofas, anything-but-basic beds, smart sideboards</p>
 				</div>
 				<div class="col-lg-4 col-md-6 mt-5 mt-md-0 text-center">
 					<i class="ti-shine text-primary h1"></i>
 					<h3 class="mt-4 text-capitalize h5 ">powerful design</h3>
-					<p class="regular text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non, recusandae
-						tempore ipsam dignissimos molestias.</p>
+					<p class="regular text-muted">Think sleek modular sofas, anything-but-basic beds, smart sideboards</p>
 				</div>
 				<div class="col-lg-4 col-md-12 mt-5 mt-lg-0 text-center">
 					<i class="ti-thought text-primary h1"></i>
 					<h3 class="mt-4 text-capitalize h5 ">creative content</h3>
-					<p class="regular text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam non, recusandae
+					<p class="regular text-muted">Think sleek modular sofas, anything-but-basic beds, smart sideboards 
 						tempore ipsam dignissimos molestias.</p>
 					</p>
 				</div>
@@ -90,17 +88,16 @@
 				<div class="feature-content">
 					<!-- Feature Title -->
 					<h2>Increase your productivity with <a
-							href="https://themefisher.com/products/small-apps-free-app-landing-page-template/">Small Apps</a></h2>
+							href="">Small Apps</a></h2>
 					<!-- Feature Description -->
-					<p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-						labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-						aliquip ex ea commodo consequat.</p>
+					<p class="desc">At Article, we’re all about great style. Think sleek modular sofas, anything-but-basic beds, smart sideboards, and more — all designed with premium quality and comfort in mind. It’s contemporary furniture meets unparalleled value. Nice, right?
+					</p>
 				</div>
 				<!-- Testimonial Quote -->
 				<div class="testimonial">
 					<p>
-						"InVision is a window into everything that's being designed at Twitter. It gets all of our best work in one
-						place."
+						At Article, we’re all about great style. Think sleek modular sofas, anything-but-basic beds, smart sideboards, and more — all designed with premium quality and comfort in mind. It’s contemporary furniture meets unparalleled value. Nice, right?
+
 					</p>
 					<ul class="list-inline meta">
 						<li class="list-inline-item">
@@ -160,9 +157,9 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title">
-					<h2>An Interface For Lifestyle</h2>
-					<p><a href="https://themefisher.com/products/small-apps-free-app-landing-page-template/">Small Apps</a> makes
-						it easy to stay on top of your Life Style. No late tasks. No gimmicks.</p>
+					<h2>SUIZZ </h2>
+					<p><a href="">HELLO FROM SUIZZ</a> makes
+						it easy to stay on top of your Life Style. No late tasks</p>
 				</div>
 			</div>
 		</div>
