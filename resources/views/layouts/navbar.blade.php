@@ -1,5 +1,5 @@
 
-<nav class="navbar main-nav navbar-expand-lg px-2 px-sm-0 py-2 py-lg-0">
+<nav  class="navbar main-nav navbar-expand-lg px-2 px-sm-0 py-2 py-lg-0">
     <div class="container">
       <a class="navbar-brand" href="/"><img src="images/logo.png" style="width: 62px;padding: 6px;" alt="logo"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
@@ -9,51 +9,28 @@
       <div class="collapse navbar-collapse" id="navbarNav"> 
         <ul class="navbar-nav ml-auto">
           <li class="nav-item dropdown active">
-            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Home
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown">Home
               <span><i class="ti-angle-down"></i></span>
             </a>
             <!-- Dropdown list -->
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item active" href="index.html">Homepage</a></li>
-              <li><a class="dropdown-item active3" href="homepage-3.html">Homepage 3</a></li>
-  
-              <li class="dropdown dropdown-submenu dropright">
-                <a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0301" role="button"
-                  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sub Menu</a>
-  
-                <ul class="dropdown-menu" aria-labelledby="dropdown0301">
-                  <li><a class="dropdown-item" href="index.html">Submenu 11</a></li>
-                  <li><a class="dropdown-item" href="index.html">Submenu 12</a></li>
-                </ul>
-              </li>
+              <li><a class="dropdown-item active" href="#1">Home</a></li>
+              
             </ul>
+
           </li>
-          <li class="nav-item dropdown @@pages">
-            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Pages
-              <span><i class="ti-angle-down"></i></span>
-            </a>
-            <!-- Dropdown list -->
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item @@team" href="team.html">Team</a></li>
-              <li><a class="dropdown-item @@career" href="career.html">Career</a></li>
-              <li><a class="dropdown-item @@privacy" href="privacy-policy.html">Privacy</a></li>
-              <li><a class="dropdown-item @@faq" href="FAQ.html">FAQ</a></li>
-  
-              <li class="dropdown dropdown-submenu dropleft">
-                <a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0501" role="button"
-                  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sub Menu</a>
-  
-                <ul class="dropdown-menu" aria-labelledby="dropdown0501">
-                  <li><a class="dropdown-item" href="index.html">Suizz</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
+          
           <li class="nav-item @@about">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="#2">About</a>
           </li>
           <li class="nav-item @@contact">
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="#3">Contact</a>
+          </li>
+          <li class="nav-item @@about">
+            <a class="nav-link" href="#4">About</a>
+          </li>
+          <li class="nav-item @@contact">
+            <a class="nav-link" href="#5">Contact</a>
           </li>
         </ul>
       </div>

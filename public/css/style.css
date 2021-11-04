@@ -18,6 +18,7 @@ FACEBOOK: https://www.facebook.com/themefisher
 body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
+  transition: all 0.5s ease;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2204,10 +2205,21 @@ hr {
     height: 350px;
   }
 }
-
+.footer-main {
+  padding: 92
+px
+0;
+  background: #ffffff;
+}
 
 .bg-1 {
   background: url(../images/background/promo-video-back.jpg) fixed no-repeat;
   background-size: cover;
+}
+.main-nav {
+  background: #fff;
+  z-index: 1;
+  position: fixed;
+  width: 100%;
 }
 /*# sourceMappingURL=style.css.map */

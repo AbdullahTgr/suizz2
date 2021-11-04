@@ -11,7 +11,7 @@
 <!--====================================
 =            Hero Section            =
 =====================================-->
-<section class="section gradient-banner">
+<section id="1" class="section gradient-banner">
 	<div class="shapes-container">
 		<div class="shape" data-aos="fade-down-left" data-aos-duration="1500" data-aos-delay="100"></div>
 		<div class="shape" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100"></div>
@@ -46,7 +46,7 @@
 </section>
 <!--====  End of Hero Section  ====-->
 
-<section class="section pt-0 position-relative pull-top">
+<section id="2" class="section pt-0 position-relative pull-top">
 	<div class="container">
 		<div class="rounded shadow p-5 bg-white">
 			<div class="row">
@@ -77,7 +77,7 @@
 <!--==================================
 =            Feature Grid            =
 ===================================-->
-<section class="feature section pt-0">
+<section id="3" class="feature section pt-0">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 ml-auto justify-content-center">
@@ -114,7 +114,7 @@
 	</div>
 </section>
 
-<section class="feature section pt-0">
+<section id="4" class="feature section pt-0">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 ml-auto align-self-center">
@@ -155,7 +155,7 @@
 <!--==============================
 =            Services            =
 ===============================-->
-<section class="service section bg-gray">
+<section id="5" class="service section bg-gray">
 	<div class="container-fluid p-0">
 		<div class="row">
 			<div class="col-lg-12">
