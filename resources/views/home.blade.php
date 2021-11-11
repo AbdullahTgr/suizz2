@@ -246,7 +246,7 @@ background: linear-gradient(
 						porttitor at sem. Vivamus </p>
 					<!-- Popup Video -->
 					<a data-fancybox href="https://www.youtube.com/watch?v=1wkPMUZ9vX4&t=7s">
-						<i class="ti-control-play video"></i>
+						<i class="ti-control-play video" style="    color: #f78e0c;"></i>
 					</a>
 				</div>
 			</div>
