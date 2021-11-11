@@ -36,7 +36,7 @@
 				<h1 class="text-white font-weight-bold mb-4">Suizz Mobile Apps</h1>
 				<p class="text-white mb-5">Suizz its beautiful design. Suizz is an incredibly rich core for you to
 					showcase your App.</p>
-				<a href="FAQ.html" class="btn btn-main-md" style="background:#e59d0a">Download Now</a>
+				<a href="FAQ.html" class="btn btn-main-md" style="background:#e59d0a; color: #000000;">Download Now</a>
 			</div>
 			<div class="col-md-6 text-center order-1 order-md-2">
 				<img class="img-fluid" src="images/mobile.png" alt="screenshot">
@@ -48,21 +48,26 @@
 
 <section id="2" class="section pt-0 position-relative pull-top">
 	<div class="container">
-		<div class="rounded shadow p-5 bg-white">
+		<div class="rounded shadow p-5 " style="
+
+background: linear-gradient(
+45deg, black, #000000e0);
+
+		"> 
 			<div class="row">
 				<div class="col-lg-4 col-md-6 mt-5 mt-md-0 text-center">
 					<i class="ti-paint-bucket text-primary h1"></i>
-					<h3 class="mt-4 text-capitalize h5 ">Anything-but-basic </h3>
+					<h3 class="mt-4 text-capitalize h5 " style="color: white;">Anything-but-basic </h3>
 					<p class="regular text-muted">Think sleek modular sofas, anything-but-basic beds, smart sideboards</p>
 				</div>
 				<div class="col-lg-4 col-md-6 mt-5 mt-md-0 text-center">
 					<i class="ti-shine text-primary h1"></i>
-					<h3 class="mt-4 text-capitalize h5 ">powerful design</h3>
+					<h3 class="mt-4 text-capitalize h5 " style="color: white;">powerful design</h3>
 					<p class="regular text-muted">Think sleek modular sofas, anything-but-basic beds, smart sideboards</p>
 				</div>
 				<div class="col-lg-4 col-md-12 mt-5 mt-lg-0 text-center">
 					<i class="ti-thought text-primary h1"></i>
-					<h3 class="mt-4 text-capitalize h5 ">creative content</h3>
+					<h3 class="mt-4 text-capitalize h5 " style="color: white;">creative content</h3>
 					<p class="regular text-muted">Think sleek modular sofas, anything-but-basic beds, smart sideboards 
 						tempore ipsam dignissimos molestias.</p>
 					</p>
